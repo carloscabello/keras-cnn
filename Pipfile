@@ -6,6 +6,14 @@ name = "pypi"
 [packages]
 notebook = "*"
 tensorflow = "*"
+wget = "*"
+pillow = "*"
+matplotlib = "*"
+pydot = "*"
+graphviz = "*"
+pydotplus = "*"
+imgaug = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
