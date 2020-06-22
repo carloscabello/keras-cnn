@@ -7,9 +7,9 @@
 *.tar
 
 # No incluir los modelos exportados#
-.json
-.hdf5
-.h5
+*.json
+*.hdf5
+*.h5
 #A menos que sean -final.h5
 !*-final.h5
 !*-final.h5
