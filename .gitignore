@@ -5,10 +5,16 @@
 
 *.rar
 *.tar
+
+# potential folders for dataset #
+dataset
+dataset-preview
+dataset-preview-aug
 */dataset/*
 */dataset-hands/*
 
-
+# tmp files #
+*.tmp
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
