@@ -27,7 +27,7 @@ Transformations include:
 * Vertical and horizontal flip up to 20% 
 * Zoom in/out up to 20%
 
-![](img/dataset-augmented-overview-735x488-16445712954163.png)
+![](documents/images/dataset-augmented-overview-735x488.png)
 
 ## Models
 
