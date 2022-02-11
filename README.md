@@ -2,7 +2,7 @@
 
 In this project we compare two custom architectures of Convolutional Neural Network (CNN) to classify correctly a dataset of images.
 
-The complete implementation with model implementation, training, data augmentation and inference is included in the Python Notebooks included in this repository.
+The complete implementation with model implementation, training, data augmentation and inference is included in the Python Notebooks included in this repository at the directories `CarlosNET/` and `IvanNET/`.
 
 There is also a complete [report in Spanish](documents/IA-2020-keras-finger-counting-classification_es.pdf) detailing all the work done as well as some [slides in Spanish](documents/IA-defense-30-06-2020_es.pdf).
 
@@ -104,7 +104,7 @@ model.summary()
 
 As explained before, the dataset was very homogeneous so the models converged very quickly to optimal weight to classify images.
 
-Final weights were obtained by **training through 30 epochs**. A file with weights for CarlosNET is available as *carlosNet-aug-final.h5*.
+Final weights were obtained by **training through 30 epochs**. A file with weights for CarlosNET is available as `CarlosNET/carlosNet-aug-final.h5`.
 
 |                       | Accuracy (train) | Accuracy (val) | Accuracy (test) |
 | --------------------- | ---------------- | -------------- | --------------- |
